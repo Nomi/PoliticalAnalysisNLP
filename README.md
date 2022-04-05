@@ -7,4 +7,4 @@ Authors are:
 + Noman Noor
 + Maciej Radziwill
 + Marcin Świerkot
-+ Mulatu Damtie
++ Girma Lenga
