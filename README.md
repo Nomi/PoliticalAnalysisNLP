@@ -6,3 +6,4 @@ Authors are:
 
 + Noman Noor
 + Maciej Radziwill
++ Marcin Świerkot
