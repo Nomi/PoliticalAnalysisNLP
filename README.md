@@ -8,3 +8,4 @@ Authors are:
 + Maciej Radziwill
 + Marcin Świerkot
 + Girma Lenga
++ Mulatu Damtie
